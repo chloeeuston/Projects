@@ -1,0 +1,7 @@
+
+
+This game is played by typing the letters of a word as the fall 
+from the top of the screen before they reach the bottom of the 
+screen. Once you start typing one word, it will light up in green
+and you must finish typing the word before you can type the other 
+words. 
